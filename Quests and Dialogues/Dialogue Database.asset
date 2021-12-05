@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 935899b62f48ae5498594680ed17d133, type: 3}
   m_Name: Dialogue Database
   m_EditorClassIdentifier: 
-  version: 
-  author: 
+  version: 0.1
+  author: Shahram
   description: 
   globalUserScript: 
   emphasisSettings:
@@ -46,7 +46,7 @@ MonoBehaviour:
       type: 3
       typeString: CustomFieldType_Files
     - title: Description
-      value: 
+      value: Main Player
       type: 0
       typeString: CustomFieldType_Text
     - title: IsPlayer
@@ -68,7 +68,7 @@ MonoBehaviour:
       type: 3
       typeString: CustomFieldType_Files
     - title: Description
-      value: 
+      value: The Robot
       type: 0
       typeString: CustomFieldType_Text
     - title: IsPlayer
