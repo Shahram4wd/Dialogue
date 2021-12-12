@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_description: 
   m_questAssets:
+  - {fileID: 11400000, guid: 5f2634462db3164458d498a3c249c188, type: 2}
   - {fileID: 11400000, guid: a1fb0a24dda809e488b673384e36a5b3, type: 2}
   m_images: []
